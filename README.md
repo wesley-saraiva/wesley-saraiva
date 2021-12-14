@@ -1,6 +1,6 @@
 ## Oi! Eu sou Wesley Marques Saraiva
 
-- :computer: Atualmente estou desenvovendo aplicações Java Web Full-Stack
+- :computer: Atualmente estou desenvolvendo aplicações Java Web Full-Stack
 - 👀 Sou interessado em Java, HTML, CSS, Banco de Dados
 - 🌱 Estudando SpringBoot, RestApi, Microserviços
 
