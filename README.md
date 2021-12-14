@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @wesley-saraiva
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Oi! Eu sou Wesley Marques Saraiva
 
-<!---
-wesley-saraiva/wesley-saraiva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- :computer: Hoje desenvolvo aplicações Java Web
+- 👀 Sou interessado em Java
+- 🌱 Estudando SpringBoot, RestApi
+
+
