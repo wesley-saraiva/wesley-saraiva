@@ -1,8 +1,8 @@
 ## Oi! Eu sou Wesley Marques Saraiva
 
-- :computer: Hoje desenvolvo aplicações Java Web
-- 👀 Sou interessado em Java
-- 🌱 Estudando SpringBoot, RestApi
+- :computer: Atualmente estou desenvovendo aplicações Java Web Full-Stack
+- 👀 Sou interessado em Java, HTML, CSS, Banco de Dados
+- 🌱 Estudando SpringBoot, RestApi, Microserviços
 
 <div align="center">
   <a href="https://github.com/wesley-saraiva">
