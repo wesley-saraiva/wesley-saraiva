@@ -17,7 +17,7 @@
   <img align="center" alt="Wesley-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wesley-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wesley-Boo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Wesley-Flutter" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" />
+  <img align="center" alt="Wesley-Flutter" height="60" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" />
   <img align="right" alt="Wesley-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif">
 </div>
   
