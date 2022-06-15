@@ -1,7 +1,7 @@
 ## Oi! Eu sou Wesley Marques Saraiva
 
-- :computer: Atualmente estou desenvolvendo aplicações Java Web
-- 👀 Sou interessado em Java, HTML, CSS, Banco de Dados
+- :computer: Atualmente estou desenvolvendo aplicações Mobile ecom tenologia Flutter e linguagem Dart.
+- 👀 Sou interessado em Java, C#, Flutter
 - 🌱 Estudando SpringBoot, RestApi, Microserviços
 
 <div align="center">
