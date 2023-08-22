@@ -2,7 +2,7 @@
 
 - :computer: Atualmente estou desenvolvendo aplicações Mobile ecom tenologia Flutter e linguagem Dart.
 - 👀 Sou interessado em Java, C#, Flutter
-- 🌱 Estudando SpringBoot, RestApi, Microserviços
+- 🌱 Estudando Flutter e Dart na Academia do Flutter
 
 <div align="center">
   <a href="https://github.com/wesley-saraiva">
