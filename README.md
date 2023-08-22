@@ -1,7 +1,7 @@
 ## Oi! Eu sou Wesley Marques Saraiva
 
-- :computer: Atualmente estou desenvolvendo aplicações Mobile ecom tenologia Flutter e linguagem Dart.
-- 👀 Sou interessado em Java, C#, Flutter
+- :computer: Atualmente estou desenvolvendo aplicações Mobile com tenologia Flutter e linguagem Dart.
+- 👀 Sou interessado em Flutter, Dart
 - 🌱 Estudando Flutter e Dart na Academia do Flutter
 
 <div align="center">
