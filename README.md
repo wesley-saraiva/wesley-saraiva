@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-saraiva&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Wesley-D" height="40" width="40" src="C:\Users\wesle\Downloads\dart-programming-language-icon.png">
+  <img align="center" alt="Wesley-D" height="40" width="40" src="https://img.icons8.com/?size=512&id=7AFcZ2zirX6Y&format=png">
   <img align="center" alt="Wesley-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Wesley-SP" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />  
   <img align="center" alt="Wesley-PS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> 
